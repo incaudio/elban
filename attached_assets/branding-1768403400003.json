@@ -1,0 +1,93 @@
+{
+  "colorScheme": "dark",
+  "fonts": [
+    {
+      "family": "Archivo",
+      "count": 83
+    },
+    {
+      "family": "sans-serif",
+      "count": 83
+    }
+  ],
+  "colors": {
+    "primary": "#FFFF00",
+    "accent": "#FFFF00",
+    "background": "#000000",
+    "textPrimary": "#000000",
+    "link": "#FFFF00"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Archivo",
+      "heading": "Archivo"
+    },
+    "fontStacks": {
+      "body": [
+        "Archivo",
+        "sans-serif"
+      ],
+      "heading": [
+        "Archivo",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Archivo",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "16px",
+      "h2": "80px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "0px"
+  },
+  "components": {
+    "input": {
+      "background": "transparent",
+      "textColor": "#000000",
+      "borderColor": null,
+      "borderRadius": "0px",
+      "borderRadiusCorners": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "File saved at: attached_assets/logo.png",
+    "favicon": "File saved at: attached_assets/favicon.jpg",
+    "ogImage": null
+  },
+  "__framework_hints": [],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "Strong indicators: in header, no link (brand logos usually link to homepage, penalty), header location, visible, highest logo on page, src contains logo, class contains logo, reasonable size. Score: 72 (clear winner by 72 points)",
+    "confidence": 0.9
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "confidence": 0
+  },
+  "confidence": {
+    "buttons": 0,
+    "colors": 0,
+    "overall": 0
+  }
+}

@@ -1,0 +1,10 @@
+# Cloudflare Wrangler config for Pages/Workers.
+# Replace the placeholders with your Cloudflare account values before using.
+
+name = "elban-pages"
+account_id = "YOUR_ACCOUNT_ID"
+compatibility_date = "2026-01-14"
+
+# If you intend to use Cloudflare Workers for server-side APIs, configure them here.
+# For Pages-only static hosting the important part is the GitHub Action which publishes
+# the `dist/public` folder produced by `npm run build`.
