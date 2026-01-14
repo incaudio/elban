@@ -3,7 +3,7 @@ import { useRef } from "react";
 import { Navigation } from "@/components/Navigation";
 import { SectionHeading } from "@/components/SectionHeading";
 import { NewsletterForm } from "@/components/NewsletterForm";
-import heroImg from "@assets/WhatsApp_Image_2026-01-10_at_18.42.19~3_(1)_1768406287782.png";
+import heroImg from "@assets/WhatsApp_Image_2026-01-10_at_18.42.19~3_(1)_1768406287782.webp";
 import bioImg from "@assets/WhatsApp_Image_2026-01-10_at_18.46.39_1768403696674.jpeg";
 
 export default function Home() {
