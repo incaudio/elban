@@ -4,6 +4,7 @@
 name = "elban-pages"
 account_id = "YOUR_ACCOUNT_ID"
 compatibility_date = "2026-01-14"
+pages_build_output_dir = "dist/public"
 
 # If you intend to use Cloudflare Workers for server-side APIs, configure them here.
 # For Pages-only static hosting the important part is the GitHub Action which publishes
